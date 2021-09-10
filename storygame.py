@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from pag import GameWorld
-from pag import CommandLineInterface
+from pag import CommandLineInterfacee
 from pag import classes
 
 # This gives the Game the list of all locations that is updated every time a
